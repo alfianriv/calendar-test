@@ -2,7 +2,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started Calendar Test
 
-First, run the development server:
+First, install modules:
+
+```bash
+npm install
+# or
+yarn install
+```
+
+Run the development server
 
 ```bash
 npm run dev
